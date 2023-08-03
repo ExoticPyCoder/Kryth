@@ -8,7 +8,7 @@ com.html(
 .important {
   background-color: cyan;
   color: black;
-  border: 2px solid black;
+  border: 200px solid black;
   margin: 2px;
   padding: 2px;
   text-align: center;
