@@ -17,7 +17,9 @@ com.html(
 <body>
 <h1  style="text-align:center;" class="important">Tutum Hospitium</h1>
 <h1 class="important">Welcome</h1>
-<p class="important">Tutum Hospitium ('Safe Shelter' in Latin) is a platform that connects donors with charities. Our vision is to maximize the effectiveness of donating supplies to charities using technology. We allow charities to post the list of supplies they need as wishlists, and enable donors to pick items from the list to donate. Learn more about us, and how you can get involved, by clicking below!</p>
+<p style="text-align:center;" class="important">Tutum Hospitium ('Safe Shelter' in Latin) is a platform that connects donors with charities. Our vision is to maximize the effectiveness of donating supplies to charities 
+using technology. We allow charities to post the list of supplies they need as wishlists, and enable donors to pick items from the list to donate. Learn more about us, and how you can get involved,
+by clicking below!</p>
 </body>
 </html>
 """
