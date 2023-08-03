@@ -12,7 +12,7 @@ com.html(
   margin: 2px;
   padding: 2px;
   text-align: center;
-  font-size: 10;
+  font-size: 50px;
 }
 </style>
 </head>
