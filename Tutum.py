@@ -9,7 +9,7 @@ com.html(
   background-color: cyan;
   color: black;
   border: 200px solid black;
-  margin: 200px;
+  margin: 2px;
   padding: 2px;
   text-align: center;
 }
