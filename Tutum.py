@@ -10,7 +10,7 @@ com.html(
   color: black;
   border: 2px solid black;
   margin: 2px;
-  padding: 2px;
+  padding: 200px;
   text-align: center;
 }
 </style>
